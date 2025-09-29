@@ -14,5 +14,5 @@
 
 ---
 
-✉️ **Kontak**  
+## 📲 **Kontak**  
 📧 [Email](neovalabd@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/noval-abdurojak/)
